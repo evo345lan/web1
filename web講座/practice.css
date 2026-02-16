@@ -1,0 +1,25 @@
+.flex-box{
+    color: blue;
+    background-color: red;
+    margin: 3%;
+}
+.square{
+    width: 100px;
+    height: 100px;
+    background: black;
+    border-radius: 40px;
+}
+.triangle{
+    width: 0;
+    height: 0;
+    background: transparent;
+    border-bottom: 150px solid yellow;
+    border-left: 100px solid aqua;
+    border-right: 100px solid red;
+}
+table{
+    background-color:  red;
+}
+th,td{
+    border: 10px solid blue;    
+}
